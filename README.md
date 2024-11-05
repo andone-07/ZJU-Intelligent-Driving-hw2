@@ -200,4 +200,4 @@ head:
 
 The model file download link is below:
 
-[model file: best.pt]([#](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/weights))
+[model file: best.pt](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/blob/master/weights/best.pt)
