@@ -185,15 +185,15 @@ head:
 - Precision: 0.691
 - mAP50: 0.589
 
-![result1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/result1.png)
-![result1-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/results1-1.png)
+![result1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/blob/master/images/result1.png)
+![result1-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/blob/master/images/results1-1.png)
 
 #### After adding EMA attention mechanism, the results of model training and verification are as follows.
 - Precision: 0.696
 - mAP50: 0.59
 
-![result2](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/result2.png)
-![result2-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/results2-1.png)
+![result2](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/blob/master/images/result2.png)
+![result2-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/blob/master/images/results2-1.png)
 
 
 ## Download
