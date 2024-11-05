@@ -77,9 +77,6 @@ python train.py --data soda.yaml --cfg yolov8.yaml --weights pretrained/yolov8s.
 python train.py --data soda.yaml --cfg yolov8_EMA.yaml --weights pretrained/yolov8s.pt
 ```
 
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-
 ## Adding EMA
 
 We added the EMA attention mechanism to the YOLOv8 model as follows.
