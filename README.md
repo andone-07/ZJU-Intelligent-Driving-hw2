@@ -2,7 +2,10 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)]()
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master)
+
+### Name: Jiawen Zhu
+### Student ID: 22451318
 
 This repository stores the assignment 2 code of the Intelligent driving course of Autumn Semester 2024 of the Software School of Zhejiang University.
 
@@ -182,15 +185,19 @@ head:
 - Precision: 0.691
 - mAP50: 0.589
 
-![result1](images\result1.png)
+![result1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/result1.png)
+![result1-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/results1-1.png)
 
 #### After adding EMA attention mechanism, the results of model training and verification are as follows.
 - Precision: 0.696
 - mAP50: 0.59
 
-![result2](images\result2.png)
+![result2](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/result2.png)
+![result2-1](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/images/results2-1.png)
+
 
 ## Download
 
 The model file download link is below:
-[model file: YOLOv8_EMA.pt](#)
+
+[model file: best.pt]([#](https://github.com/andone-07/ZJU-Intelligent-Driving-hw2/tree/master/weights))
