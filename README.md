@@ -71,10 +71,10 @@ You can train the model with the following commands.
 
 ```
 # before the adjustment
-python train.py --data soda.yaml --cfg yolov8.yaml --weights pretrained/yolov8s.pt
+python train.py --data soda.yaml --cfg yolov8.yaml --weights pretrained/yolov8n.pt
 
 # after the adjustment
-python train.py --data soda.yaml --cfg yolov8_EMA.yaml --weights pretrained/yolov8s.pt
+python train.py --data soda.yaml --cfg yolov8_EMA.yaml --weights pretrained/yolov8n.pt
 ```
 
 ## Adding EMA
